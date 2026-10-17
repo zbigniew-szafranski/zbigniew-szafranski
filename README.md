@@ -1,4 +1,4 @@
-# Cześć, tu Zbigniew 👋
+# Cześć 👋
 
 Buduję **automatyzacje i aplikacje z AI**, które zdejmują z ludzi powtarzalną pracę —
 od workflow w n8n i botów na Telegramie, po aplikacje SaaS w Django z integracją Claude i OpenAI.
